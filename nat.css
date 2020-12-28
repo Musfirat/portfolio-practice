@@ -1,0 +1,44 @@
+.back {
+    font-size: 2em ;
+    text-align: centre ;
+    
+     }
+.first {
+     color : #808080;
+     }
+.body {
+      color: #00ffff;
+      font-size: 12px;
+      line-height: 20px ;
+      width:50%;
+   }
+   
+   .profile{
+      float: right ;
+      height:150px ;
+      width:50% ;
+   }
+   
+   .side {
+      width:50%;
+      padding-left:25% ;
+   }
+ .btn{
+    color:#000080;
+    background-color: #808080; 
+    padding:12px 10px ;
+    border-radius: 20px;
+    text-decoration: none;
+    
+    }
+    
+    .container{
+    padding-left: 5% ;
+    display: inline-block ;
+    }
+    
+    .experience {
+         padding-left: 10px ;
+         border-left: 2px solid rgba(145,35,200,0.2);
+         
+         }
